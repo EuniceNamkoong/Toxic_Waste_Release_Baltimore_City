@@ -10,7 +10,7 @@ With some of the highest contributing toxic waste releasing manufacturing indust
 
 The data sets that were used to do the python analysis was from [TRI facilities report](https://www.epa.gov/toxics-release-inventory-tri-program/tri-basic-data-files-calendar-years-1987-2019?). We were able to get the raw data points regarding total toxic waste release and more detailed information about the toxic waste and location of the yaers 2016-2019. 
 
-[[!Open in Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b6eWvln0RH4XMKx9dXtFnt42rIPLrbYT?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1b6eWvln0RH4XMKx9dXtFnt42rIPLrbYT?usp=sharing)
 The full python analysis and data filteration can be found in this Google Collaboratory Notebook. 
 
 ![total release bar chart](https://github.com/EuniceNamkoong/Toxic_Waste_Release_Baltimore_City/blob/main/total%20toxic%20waste%20by%20year%20plot%20.png)
